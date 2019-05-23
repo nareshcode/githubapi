@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fetch_open_pull_requests">Fetch open pull requests</string>
+    <string name="owner_name">owner name</string>
+    <string name="owner_name_req">owner name is required</string>
+    <string name="repo_name">repo name</string>
+    <string name="repo_name_req">repo name is required</string>
+</resources>
